@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I’m Kedar
 
-<!--
-**chitniskedar/chitniskedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that actually *work* — clean systems, practical tools, and projects that feel a little futuristic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Interested in **software development, automation, and AI systems**
+- 🧠 I enjoy breaking down complex problems and turning them into simple logic
+- 🛠 Currently building and experimenting with **full-stack projects**
+- 🎯 Long-term goal: build scalable products, not just demos
+
+---
+
+## 🧰 Tech Stack
+**Languages**
+- Python
+- JavaScript
+- HTML / CSS
+
+**Frameworks & Tools**
+- FastAPI
+- Node.js
+- Git & GitHub
+- REST APIs
+
+**Other**
+- System design basics  
+- API integration  
+- Automation scripts  
+
+---
+
+## 📌 What I’m Working On
+- Personal AI / assistant-style projects  
+- Backend systems with clean APIs  
+- Improving frontend UX with minimal, functional design  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+- Open to collaborating on interesting projects
+- Always learning, always iterating
+
+> *Build quietly. Ship loudly.*
