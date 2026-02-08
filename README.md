@@ -2,18 +2,25 @@
 
 <table width="100%" border="0">
   <tr>
-    <!-- TOP LEFT: MAIN INFO -->
+    <!-- TOP LEFT: MAIN INFO (Primary Focus) -->
     <td width="70%" align="left" valign="top" style="border: none;">
-      <p>I'm a <b>first-semester BTech Computer Science Engineering student</b> 🚀. Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.</p>
+      <p>I'm a <b>first-semester BTech Computer Science Engineering student! </b> . Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.</p>
+      <p>"If you no longer go for a gap the exists, you are no loger a racing driver."</p>
     </td>
-    <!-- TOP RIGHT: F1 SECTION -->
+    <!-- TOP RIGHT: F1 WIDGET (Flag Left, Info Right) -->
     <td width="30%" align="right" valign="top" style="border: none;">
-      <img src="https://flagcdn.com/w80/au.png" width="50" style="border-radius: 2px;" alt="Australia Flag"/>
-      <div style="font-size: 0.9em; margin-top: 5px;">
-        <b>Next: Australian GP</b><br>
-        March 06-08, 2026<br>
-        <img src="https://img.shields.io/badge/F1-2026-FF1801?style=flat-square&logo=formula1&logoColor=white" />
-      </div>
+      <table border="0">
+        <tr>
+          <td valign="middle" style="border: none;">
+            <img src="https://flagcdn.com/w80/au.png" width="45" style="border-radius: 2px;" alt="Australia Flag"/>
+          </td>
+          <td align="left" valign="middle" style="border: none; padding-left: 8px;">
+            <b style="font-size: 0.85em;">Australian GP</b><br>
+            <span style="font-size: 0.8em;">March 06-08, 2026</span><br>
+            <img src="https://img.shields.io/badge/F1-2026-FF1801?style=flat-square&logo=formula1&logoColor=white" height="18"/>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
