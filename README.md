@@ -1,5 +1,6 @@
-# Hi there, I'm Kedar!
+# Hi there, I'm Kedar! 👋
 
+I'm a **first-semester BTech Computer Science Engineering student** 🚀. Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.
 
 ### 🛠 Languages
 <p align="left">
@@ -11,16 +12,16 @@
 ### 📬 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/kedarchitnis" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230077B5&label=" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/chitnis.kedar" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23E4405F&label=" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="mailto:chitniskedar7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&label=" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://github.com/chitniskedar">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=%23121011&label=" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
@@ -38,7 +39,7 @@
         <h2 style="margin: 0;">🇦🇺 Australian Grand Prix</h2>
         <p style="margin: 5px 0;"><b>Date:</b> March 06 - 08, 2026</p>
         <p style="margin: 5px 0;"><b>Location:</b> Albert Park Circuit, Melbourne</p>
-        <img src="https://img.shields.io/badge/F1_2025-Season_Opener-FF1801?style=flat-square&logo=formula1&logoColor=white" />
+        <img src="https://img.shields.io/badge/F1_2026-Season_Opener-FF1801?style=flat-square&logo=formula1&logoColor=white" />
       </td>
     </tr>
   </table>
