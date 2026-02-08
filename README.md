@@ -1,11 +1,10 @@
-# Hi there, I'm Kedar! 👋
-
+# Hi there, I'm Kedar!
 <table width="100%" border="0">
   <tr>
     <!-- TOP LEFT: MAIN INFO (Primary Focus) -->
     <td width="70%" align="left" valign="top" style="border: none;">
       <p>I'm a <b>first-semester BTech Computer Science Engineering student! </b> . Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.</p>
-      <p>"If you no longer go for a gap the exists, you are no loger a racing driver."</p>
+      <p><i>"If you no longer go for a gap the exists, you are no loger a racing driver."<i/></p>
     </td>
     <!-- TOP RIGHT: F1 WIDGET (Flag Left, Info Right) -->
     <td width="30%" align="right" valign="top" style="border: none;">
