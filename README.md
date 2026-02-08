@@ -3,7 +3,7 @@
   <tr>
     <!-- TOP LEFT: MAIN INFO (Primary Focus) -->
     <td width="70%" align="left" valign="top" style="border: none;">
-      <p>I'm a <b>first-semester BTech Computer Science Engineering student! </b> . Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.</p>
+      <p>I'm a <b>first-semester BTech Computer Science Engineering student! </b> Currently learning my way through the vast world of tech, exploring new languages, and building my foundation in software development.</p>
       <p><i>"If you no longer go for a gap the exists, you are no loger a racing driver."<i/></p>
     </td>
     <!-- TOP RIGHT: F1 WIDGET (Flag Left, Info Right) -->
@@ -11,7 +11,7 @@
       <table border="0">
         <tr>
           <td valign="middle" style="border: none;">
-            <img src="https://flagcdn.com/w80/au.png" width="45" style="border-radius: 2px;" alt="Australia Flag"/>
+            <img src="https://flagcdn.com/w80/au.png" width="50" style="border-radius: 2px;" alt="Australia Flag"/>
           </td>
           <td align="left" valign="middle" style="border: none; padding-left: 8px;">
             <b style="font-size: 0.85em;">Australian GP</b><br>
