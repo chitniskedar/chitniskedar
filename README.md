@@ -1,15 +1,12 @@
-# Hi, I'm Kedar Chitnis
+# Kedar Chitnis
 
-Student developer focused on learning by building,  
-breaking things intentionally, and understanding systems from the inside.
+Student developer with a preference for precision, speed, and clean execution.  
+I like building things step by step, understanding systems deeply, and improving
+how I think about problems rather than rushing to solutions.
 
-I enjoy writing code that is simple, readable, and predictable.  
-Most of my time goes into strengthening fundamentals, experimenting with ideas,
-and improving how I think about problems rather than just solving them.
-
-I’m particularly interested in how precision, speed, and strategy translate
-from motorsport into engineering and software design.  
-Music stays on in the background — it helps more than most debuggers.
+Motorsport — especially Formula 1 — heavily influences how I approach code:
+optimize what matters, eliminate waste, and stay consistent under pressure.
+Music stays on while working; it helps maintain flow.
 
 ---
 
@@ -17,7 +14,7 @@ Music stays on in the background — it helps more than most debuggers.
 <tr>
 <td width="60%">
 
-## what I work with
+## tech stack
 
 <img src="https://img.shields.io/badge/Python-0b0b0b?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-0b0b0b?style=flat&logo=c&logoColor=white" />
@@ -29,15 +26,15 @@ Music stays on in the background — it helps more than most debuggers.
 <br><br>
 
 - problem solving & logic building  
-- writing maintainable code  
-- learning how things work under the hood  
+- clean, readable code over clever hacks  
+- learning core CS fundamentals  
 - improving consistency and structure  
 
 </td>
 
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/Thanas-R/Thanas-R/main/assets/coding-room.png" />
+<img src="https://i.pinimg.com/736x/62/c5/34/62c53468c733f71bb2bce5698f7d0faa.jpg" />
 
 </td>
 </tr>
@@ -45,12 +42,12 @@ Music stays on in the background — it helps more than most debuggers.
 
 ---
 
-## currently focused on
+## current focus
 
-- strengthening core CS fundamentals  
-- improving C / C++ problem solving  
-- writing cleaner Python programs  
-- building small projects with intent  
+- strengthening C / C++ fundamentals  
+- writing reliable Python programs  
+- small projects with clear intent  
+- thinking in terms of performance and design  
 
 ---
 
@@ -70,6 +67,6 @@ Music stays on in the background — it helps more than most debuggers.
 
 ---
 
-this repository reflects progress,  
-not a finished product.
+this repository reflects progress,
+not a finished lap.
 
