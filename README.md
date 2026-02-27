@@ -44,13 +44,9 @@
 </p>
 
 ---
----
-
 ### 🚀 Currently Building
 
 **Examino**  
-An adaptive study engine that generates MCQs and adjusts difficulty based on performance.
+<b> An adaptive study engine that generates MCQs and adjusts difficulty based on performance. </b>
 
-<p align="center"><img width="1919" height="1199" alt="Screenshot 2026-02-27 213944" src="https://github.com/user-attachments/assets/9ba3e1c2-a491-4b8b-8da0-d0e256bcd574" />
 
-</p>
