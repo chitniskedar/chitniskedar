@@ -12,11 +12,11 @@
       <table border="0">
         <tr>
           <td valign="middle" style="border: none;">
-            <img src="https://flagcdn.com/w80/au.png" width="50" style="border-radius: 2px;" alt="Australia Flag"/>
+            <img src="https://flagcdn.com/w80/cn.png" width="50" style="border-radius: 2px;" alt="Australia Flag"/>
           </td>
           <td align="left" valign="middle" style="border: none; padding-left: 8px;">
-            <b style="font-size: 0.85em;">Australian GP</b><br>
-            <span style="font-size: 0.8em;">March 06-08, 2026</span><br>
+            <b style="font-size: 0.85em;">Chineese GP</b><br>
+            <span style="font-size: 0.8em;">March 13-15, 2026</span><br>
             <img src="https://img.shields.io/badge/F1-2026-FF1801?style=flat-square&logo=formula1&logoColor=white" height="18"/>
           </td>
         </tr>
@@ -40,7 +40,12 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html,react,ts" />
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows" />
 </p>
 
 ---
