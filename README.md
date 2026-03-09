@@ -40,6 +40,18 @@ stuff similar to it. I enjoy the part where it works :)
 </tr>
 </table>
 
+<table>
+<tr>
+
+<td align="left" valign="middle" style="padding-left:8px;">
+<b style="font-size:0.85em;">Working on:</b><br>
+<span style="font-size:0.8em;">None</span><br>
+<img src="https://img.shields.io/badge/STATUS-IDLE-DEB610?style=flat-square&logo=formula1&logoColor=white" height="18"/>
+</td>
+
+</tr>
+</table>
+
 </td>
 </tr>
 
