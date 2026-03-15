@@ -28,12 +28,12 @@ stuff similar to it. I enjoy the part where it works :)
 <tr>
 
 <td valign="middle">
-<img src="https://flagcdn.com/w80/cn.png" width="50" style="border-radius:2px;" alt="China Flag"/>
+<img src="https://flagcdn.com/w80/jp.png" width="50" style="border-radius:2px;" alt="China Flag"/>
 </td>
 
 <td align="left" valign="middle" style="padding-left:8px;">
-<b style="font-size:0.85em;">Chinese GP</b><br>
-<span style="font-size:0.8em;">March 13–15, 2026</span><br>
+<b style="font-size:0.85em;">Japaneese GP</b><br>
+<span style="font-size:0.8em;">March 27-29, 2026</span><br>
 <img src="https://img.shields.io/badge/F1-2026-FF1801?style=flat-square&logo=formula1&logoColor=white" height="18"/>
 </td>
 
