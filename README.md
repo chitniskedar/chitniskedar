@@ -46,7 +46,7 @@ stuff similar to it. I enjoy the part where it works :)
 <td align="left" valign="middle" style="padding-left:8px;">
 <b style="font-size:0.85em;">Working on:</b><br>
 <span style="font-size:0.8em;">NetPay - Expense split & logs</span><br>
-<img src="https://img.shields.io/badge/STATUS-WORKING-brightgreen?style=flat-square&logo=formula1&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/STATUS-WORKING-5cdb5a?style=flat-square&logo=formula1&logoColor=white" height="18"/>
 </td>
 
 </tr>
