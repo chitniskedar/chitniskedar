@@ -91,10 +91,10 @@ stuff similar to it. I enjoy the part where it works :)
 
 ### 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html,react,ts,matlab"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html,react,ts"/>
 </p>
 
 ### 🛠 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows, matlab"/>
 </p>
