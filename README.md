@@ -96,5 +96,5 @@ stuff similar to it. I enjoy the part where it works :)
 
 ### 🛠 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows, matlab"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows,matlab"/>
 </p>
