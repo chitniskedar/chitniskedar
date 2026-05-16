@@ -6,13 +6,13 @@
 <td width="70%" align="left" valign="top">
 
 <p>
-I'm a <b>first-semester BTech Computer Science Engineering student!</b> 
+I'm a <b>second-semester BTech Computer Science Engineering student!</b> 
 Currently learning my way through the vast world of tech, exploring new languages, 
 and building my foundation in software development.
 </p>
 
 <p>
-I like building things and figuring out how stuff works. Mostly learning by building 
+I like building things and figuring out how stuff works - mostly learning by building 
 stuff similar to it. I enjoy the part where it works :)
 </p>
 
