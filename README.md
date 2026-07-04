@@ -28,7 +28,7 @@ stuff similar to it. I enjoy the part where it works :)
 <tr>
 
 <td valign="middle">
-<img src="https://flagcdn.com/w80/uk.png" width="50" style="border-radius:2px;" alt="China Flag"/>
+<img src="https://flagcdn.com/w80/gb.png" width="50" style="border-radius:2px;" alt="China Flag"/>
 </td>
 
 <td align="left" valign="middle" style="padding-left:8px;">
