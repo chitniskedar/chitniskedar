@@ -6,7 +6,7 @@
 <td width="70%" align="left" valign="top">
 
 <p>
-I'm a <b>second-semester BTech Computer Science Engineering student!</b> 
+I'm a <b>second-year BTech Computer Science Engineering student!</b> 
 Currently learning my way through the vast world of tech, exploring new languages, 
 and building my foundation in software development.
 </p>
