@@ -28,7 +28,7 @@ stuff similar to it. I enjoy the part where it works :)
 <tr>
 
 <td valign="middle">
-<img src="https://flagcdn.com/w80/be.png" width="50" style="border-radius:2px;" alt="China Flag"/>
+<img src="https://flagcdn.com/w80/be.png" width="50" style="border-radius:2px;"/>
 </td>
 
 <td align="left" valign="middle" style="padding-left:8px;">
@@ -91,10 +91,10 @@ stuff similar to it. I enjoy the part where it works :)
 
 ### 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html,react,ts"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,css,html,react,ts,kotlin,firebase"/>
 </p>
 
 ### 🛠 Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows,matlab"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,vercel,matlab"/>
 </p>
