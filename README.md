@@ -91,7 +91,7 @@ stuff similar to it. I enjoy the part where it works :)
 
 ### 🛠 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,ts,kotlin,firebase,verilog"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,react,ts,kotlin,firebase,verilog"/>
 </p>
 
 ### 🛠 Tools
