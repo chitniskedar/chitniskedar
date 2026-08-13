@@ -59,6 +59,10 @@ stuff similar to it. I enjoy the part where it works :)
 
 <td align="left" valign="bottom" style="padding-top:20px;">
 
+<a href="https://kedarchitnis.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="32"/>
+</a>
+
 <a href="https://linkedin.com/in/kedarchitnis">
 <img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
 </a>
@@ -71,9 +75,6 @@ stuff similar to it. I enjoy the part where it works :)
 <img src="https://skillicons.dev/icons?i=gmail" width="32"/>
 </a>
 
-<a href="https://github.com/chitniskedar">
-<img src="https://skillicons.dev/icons?i=github" width="32"/>
-</a>
 
 </td>
 
