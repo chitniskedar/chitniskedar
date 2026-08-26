@@ -24,6 +24,8 @@ stuff similar to it. I enjoy the part where it works :)
 
 <td width="30%" align="right" valign="top">
 
+<!--f1-start-->
+
 <table>
 <tr>
 
@@ -39,6 +41,8 @@ stuff similar to it. I enjoy the part where it works :)
 
 </tr>
 </table>
+
+<!--f1-end-->
 
 <table>
 <tr>
