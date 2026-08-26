@@ -97,7 +97,7 @@ def ordinal(day):
 
 
 month = weekend_start.strftime("%b")
-# make Sep → Sept
+# make Sep to Sept
 if month == "Sep":
     month = "Sept"
 
@@ -125,9 +125,8 @@ html = f"""<table>
 
 print(html)
 
-
 # update README
-readme_path = "../README.md"
+readme_path = "README.md"
 
 with open(readme_path, "r", encoding="utf-8") as file:
     readme = file.read()
