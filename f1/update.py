@@ -1,5 +1,6 @@
 import fastf1
 from datetime import datetime
+from pathlib import Path
 
 today = datetime.now()
 year = today.year
@@ -126,7 +127,7 @@ html = f"""<table>
 print(html)
 
 # update README
-readme_path = "../README.md"
+readme_path = Path(__file__).resolve().parent.parent / "README.md"
 
 with open(readme_path, "r", encoding="utf-8") as file:
     readme = file.read()
