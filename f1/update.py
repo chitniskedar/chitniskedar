@@ -126,7 +126,7 @@ html = f"""<table>
 print(html)
 
 # update README
-readme_path = "README.md"
+readme_path = "../README.md"
 
 with open(readme_path, "r", encoding="utf-8") as file:
     readme = file.read()
