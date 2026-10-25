@@ -94,9 +94,14 @@ stuff similar to it. I enjoy the part where it works :)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Frequently used
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,js,react,ts,kotlin,firebase,verilog"/>
+<img src="https://skillicons.dev/icons?i=c,python,html,js,ts"/>
+</p>
+
+### 🛠 Also knows
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,react,kotlin,firebase,verilog"/>
 </p>
 
 ### 🛠 Tools
